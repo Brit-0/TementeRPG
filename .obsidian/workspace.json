@@ -11,10 +11,14 @@
             "id": "4f8fbfeb3d2d1eca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Geral/Ilha Temente.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ilha Temente"
             }
           }
         ]
@@ -163,5 +167,8 @@
     }
   },
   "active": "4f8fbfeb3d2d1eca",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Geral/Linha do Tempo.canvas",
+    "Geral/Documentos.md"
+  ]
 }

@@ -1,2 +1,2 @@
 
-A ilha em que tudo aconteceu. Possui um comportamento estranho: devido à energia emanada pelo núcleo do asteroide, qualquer matéria a certa distância do núcleo é completamente evaporada de uma hora para a outra.
+A ilha em que tudo aconteceu. Possui um comportamento estranho: devido à energia emanada pelo núcleo do asteroide, qualquer matéria a certa distância do núcleo é completamente evaporada de uma hora para a outra. Teste
