@@ -262,3 +262,17 @@ Desarmado: 1 de dano
 **Cabeça**: 2x Dano
 **Torso**: Sem multiplicador 
 **Braços e Pernas:** 1/2 Dano pra cima
+
+
+---
+
+# ILHA
+
+### Bençãos
+
+
+### Maldições
+
+1d6:
+1.  Tempestade
+2. 
