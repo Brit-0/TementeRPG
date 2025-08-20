@@ -8,7 +8,7 @@
 [[U5.png]] Aplicação Simultânea (y82uc) - Laboratório parede
 [[U6.png]] Fusão do Material (8h2k3) - Forte bancada
 [[U7.png]] Matéria Fantasma (9k39a) - Usina parede
-[[U8.png]] Experimento 24 (dh182) - 
+[[U8.png]] Experimento 24 (dh182) -  
 
 ### Templo:
 
@@ -30,7 +30,7 @@
 ### Estátua:
 
 [[E1.png]] Nota Desenhada (i873y) - Estatua
-[[E2.png]] Resultados Teste 24.3 (18jds) - Estatua
+[[E2.png]] Resultados Teste 24.3 (18jds) - Estatua 
 
 ### Zona de Impacto:
 

@@ -65,7 +65,9 @@
 		{"id":"e045b4ed7151eac5","type":"file","file":"DOCUMENTOS/O3.png","x":6880,"y":-400,"width":279,"height":400},
 		{"id":"c78f860a36cc87b5","type":"file","file":"DOCUMENTOS/O2.png","x":7274,"y":-188,"width":400,"height":133},
 		{"id":"d69705b7b0a389f9","type":"file","file":"DOCUMENTOS/O4.png","x":7720,"y":-455,"width":279,"height":400},
-		{"id":"fcd68a689b61cff4","type":"text","text":"Questionamentos","x":7749,"y":141,"width":191,"height":60}
+		{"id":"fcd68a689b61cff4","type":"text","text":"Questionamentos","x":7749,"y":141,"width":191,"height":60},
+		{"id":"66b6d8c55f5f8357","x":-44,"y":1840,"width":329,"height":400,"type":"file","file":"DOCUMENTOS/M8.png"},
+		{"id":"3389ecf842c57c8d","x":-664,"y":1949,"width":400,"height":250,"type":"file","file":"DOCUMENTOS/M7.png"}
 	],
 	"edges":[
 		{"id":"ec1c59e1bb4e9c61","fromNode":"6abff17d06ae9599","fromSide":"right","toNode":"8c11ff08bb2b8004","toSide":"left"},

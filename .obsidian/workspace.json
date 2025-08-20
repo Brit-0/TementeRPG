@@ -11,10 +11,14 @@
             "id": "cf4a58d1735c74ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Geral/INFO COMIDAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INFO COMIDAS"
             }
           }
         ]
@@ -27,17 +31,14 @@
             "id": "33ad7f216a127007",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Geral/Linha do Tempo.canvas",
-                "viewState": {
-                  "x": 7673.059341071117,
-                  "y": -240.7206845638408,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "Geral/INFO LOCAIS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Linha do Tempo"
+              "icon": "lucide-file",
+              "title": "INFO LOCAIS"
             }
           }
         ]
@@ -194,29 +195,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf4a58d1735c74ce",
+  "active": "33ad7f216a127007",
   "lastOpenFiles": [
-    "DOCUMENTOS/M1.png",
+    "Geral/INFO COMIDAS.md",
+    "Geral/Mente Players.md",
+    "DOCUMENTOS/Z1.png",
+    "Geral/INFO LOCAIS.md",
     "DOCUMENTOS/Z2.png",
+    "Geral/Linha do Tempo.canvas",
+    "Geral/Ilha Temente.md",
+    "DOCUMENTOS/U6.png",
+    "DOCUMENTOS/U7.png",
+    "DOCUMENTOS/U3.png",
+    "DOCUMENTOS/E2.png",
     "DOCUMENTOS/F2.png",
     "DOCUMENTOS/E1.png",
+    "DOCUMENTOS/M6.png",
+    "DOCUMENTOS/M8.png",
+    "Puzzles/Ordem Melhores Militares.md",
+    "Pessoas/Militares.md",
+    "Geral/Documentos.md",
     "Geral/Matéria Fantasma.md",
     "Geral/Hulus.md",
-    "Geral/Ilha Temente.md",
-    "Geral/Documentos.md",
     "Locais Importantes/Laboratório de Translocação.md",
     "Locais Importantes/Câmara dos Sussuros.md",
     "Atributos.md",
-    "Geral/Linha do Tempo.canvas",
     "Geral/Resumo de Lore.md",
     "Puzzles/Funções Temente.md"
   ]
